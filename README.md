@@ -1,9 +1,9 @@
 # Онлайн галерея художника
 ## ТП-7-8
 ### Студенты:
-- Шеина Елена - Тимлид, Backend разработчик, PM
-- Любченко Елизавета - Бизнес аналитик, дизайнер
-- Коробейникова Анастасия - Frontend разработчик, тестировщик
+- [Шеина Елена](https://github.com/raiden-20)  - Тимлид, Backend разработчик, PM
+- [Любченко Елизавета](https://github.com/linkouwu) - Бизнес аналитик, дизайнер
+- [Коробейникова Анастасия](https://github.com/korobasssss) - Frontend разработчик, тестировщик
 
 ### Описание проекта
 ---
@@ -18,7 +18,9 @@
 
 ### Сервисы
 ---
-[YouTrack](https://online-gallery.youtrack.cloud/agiles/159-2/current)
+[YouTrack - таск меннеджер](https://online-gallery.youtrack.cloud/agiles/159-2/current)
+
+[YouTrack - база знаний](https://online-gallery.youtrack.cloud/articles/OG)
 
 [Miro](https://miro.com/app/board/uXjVNqkFE7Q=/?share_link_id=337584141271)
 
