@@ -7,9 +7,7 @@
 
 ### Описание проекта
 ---
-Проект "Онлайн галерея" позволяет продавать и покупать картины, скульптуры и фотографии. Продажи осуществляются через аукцион или по фиксированной цене. 
-
-На сайте проходят благотворительные аукционы; сотрудничество с известными художниками, коллекционерами и галереями; коллекции, приуроченные к определенным важным датам и праздникам; ежегодное награждение художников и покупателей.
+Проект "Lindéro" позволяет продавать и покупать картины, скульптуры и фотографии. Продажи осуществляются через аукцион или по фиксированной цене. 
 
 Особенностью проекта является наличие ежемесячной подписки на художников, которая открывает:
   1. Эксклюзивный контент (текстовые публикации и фото, например процесс работы, интервью);
@@ -25,3 +23,10 @@
 [Miro](https://miro.com/app/board/uXjVNqkFE7Q=/?share_link_id=337584141271)
 
 [Figma](https://www.figma.com/file/xmcTy6ej7tSEEIU4bSWGko/Online-gallery?type=design&node-id=0%3A1&mode=design&t=5nymTrBTc3rGum0C-1)
+
+### Документация
+---
+
+Техническое задание ([Docx](https://github.com/raiden-20/online_gallery/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf))
+
+Сопроводительное письмо ([Docx](https://github.com/raiden-20/online_gallery/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf))
