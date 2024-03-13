@@ -1,9 +1,9 @@
 # Онлайн галерея художника
 ## ТП-7-8
 ### Студенты:
-- [Шеина Елена](https://github.com/raiden-20)  - Тимлид, Backend разработчик, PM
+- [Коробейникова Анастасия](https://github.com/korobasssss) - Тимлид, PM, Frontend разработчик, тестировщик
 - [Любченко Елизавета](https://github.com/linkouwu) - Бизнес аналитик, дизайнер
-- [Коробейникова Анастасия](https://github.com/korobasssss) - Frontend разработчик, тестировщик
+- [Шеина Елена](https://github.com/raiden-20)  -  Backend разработчик, DevOps инженер
 
 ### Описание проекта
 ---
@@ -27,6 +27,14 @@
 ### Документация
 ---
 
-Техническое задание ([Docx](https://github.com/raiden-20/online_gallery/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf))
+Техническое задание ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Техническое%20задание/Техническое%20задание.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Техническое%20задание/Техническое%20задание.pdf))
 
-Сопроводительное письмо ([Docx](https://github.com/raiden-20/online_gallery/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf))
+Сопроводительное письмо ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Сопроводительное%20письмо/Сопроводительное%20письмо.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Сопроводительное%20письмо/Сопроводительное%20письмо.pdf))
+
+Презентация ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Презентация.pdf)) ([Pptx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Презентация.pptx))
+
+Оформительские задачи ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Оформительские%20задачи/Оформительские%20задачи.pdf)) ([Jpg](https://github.com/raiden-20/online_gallery/blob/main/Документация/Оформительские%20задачи/Оформительские%20задачи.jpg))
+
+### Видео
+---
+[Видеопрезентация проекта](https://youtu.be/UTgSkZ7Y3JU)
