@@ -37,4 +37,4 @@
 
 ### Видео
 ---
-[Видеопрезентация проекта](https://youtu.be/UTgSkZ7Y3JU)
+[Видеопрезентация проекта](https://youtu.be/BgPJE7r_WCw)
