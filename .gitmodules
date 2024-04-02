@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/raiden-20/online_gallery_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/raiden-20/online_gallery_frontend.git
