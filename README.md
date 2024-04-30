@@ -35,7 +35,7 @@
 
 Оформительские задачи ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Оформительские%20задачи/Оформительские%20задачи.pdf)) ([Jpg](https://github.com/raiden-20/online_gallery/blob/main/Документация/Оформительские%20задачи/Оформительские%20задачи.jpg))
 
-Курсовая работа ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Курсовая%20работа/Курсовой%20проект.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Курсовая%20работа/Курсовой%20проект.pdf))
+Курсовая работа ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Курсовой%20проект/Курсовой%20проект.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Курсовой%20проект/Курсовой%20проект.pdf))
 
 ### Презентации
 ---
