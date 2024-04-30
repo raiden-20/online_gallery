@@ -27,14 +27,25 @@
 ### Документация
 ---
 
+[Swagger API](https://app.swaggerhub.com/apis/lena_sheina/Lindero/1.0.0)
+
 Техническое задание ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Техническое%20задание/Техническое%20задание.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Техническое%20задание/Техническое%20задание.pdf))
 
 Сопроводительное письмо ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Сопроводительное%20письмо/Сопроводительное%20письмо.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Сопроводительное%20письмо/Сопроводительное%20письмо.pdf))
 
-Презентация ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Презентация.pdf)) ([Pptx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Презентация.pptx))
-
 Оформительские задачи ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Оформительские%20задачи/Оформительские%20задачи.pdf)) ([Jpg](https://github.com/raiden-20/online_gallery/blob/main/Документация/Оформительские%20задачи/Оформительские%20задачи.jpg))
+
+Курсовая работа ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Курсовая%20работа/Курсовой%20проект.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Курсовая%20работа/Курсовой%20проект.pdf))
+
+### Презентации
+---
+
+Презентация 1 аттестация ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Аттестация%201/Презентация.pdf)) ([Pptx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Аттестация%201/Презентация.pptx))
+
+Презентация 2 аттестация ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Аттестация%202/Презентация.pdf)) ([Pptx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Аттестация%202/Презентация.pptx))
 
 ### Видео
 ---
-[Видеопрезентация проекта](https://youtu.be/BgPJE7r_WCw)
+[Видеопрезентация проекта - 1 аттестация](https://youtu.be/BgPJE7r_WCw)
+
+[Отчет по разработке - 2 аттестация]()
