@@ -27,7 +27,7 @@
 ### Документация
 ---
 
-[Swagger API](https://app.swaggerhub.com/apis/lena_sheina/Lindero/1.0.0)
+[Swagger API](https://gallery-lindero.ru/swagger-ui)
 
 Техническое задание ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Техническое%20задание/Техническое%20задание.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Техническое%20задание/Техническое%20задание.pdf))
 
@@ -55,5 +55,7 @@
 [Отчет по разработке - 2 аттестация](https://youtu.be/E73HUEOJmL8)
 
 [Видеодемонстрация работы серверной части](https://youtu.be/i0RCB7xjmkk)
+
+[Видеодемонстрация деплоя приложения](https://youtu.be/pUZItcZO0Y4)
 
 [Видеодемонстрация работы клиентской части](https://youtu.be/DCe0fttBlfw)
