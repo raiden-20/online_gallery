@@ -37,6 +37,8 @@
 
 Курсовая работа ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Курсовой%20проект/Курсовой%20проект.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Курсовой%20проект/Курсовой%20проект.pdf))
 
+[Яндекс Метрика](https://metrika.yandex.ru/overview?id=97428671&period=week&group=day&isMinSamplingEnabled=false&accuracy=1&isSamplingEnabled=true)
+
 ### Презентации
 ---
 
@@ -44,8 +46,14 @@
 
 Презентация 2 аттестация ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Аттестация%202/Презентация.pdf)) ([Pptx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Аттестация%202/Презентация.pptx))
 
+Презентация 3 аттестация ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Аттестация%203/Презентация.pdf)) ([Pptx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Презентация/Аттестация%203/Презентация.pptx))
+
 ### Видео
 ---
 [Видеопрезентация проекта - 1 аттестация](https://youtu.be/BgPJE7r_WCw)
 
 [Отчет по разработке - 2 аттестация](https://youtu.be/E73HUEOJmL8)
+
+[Видеодемонстрация работы серверной части](https://youtu.be/i0RCB7xjmkk)
+
+[Видеодемонстрация работы клиентской части](https://youtu.be/DCe0fttBlfw)
