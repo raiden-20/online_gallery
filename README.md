@@ -27,7 +27,7 @@
 ### Документация
 ---
 
-[Swagger API](https://gallery-lindero.ru/swagger-ui)
+[Swagger API](https://www.gallery-lindero.ru/swagger-ui/index.html)
 
 Техническое задание ([Docx](https://github.com/raiden-20/online_gallery/blob/main/Документация/Техническое%20задание/Техническое%20задание.docx)) ([Pdf](https://github.com/raiden-20/online_gallery/blob/main/Документация/Техническое%20задание/Техническое%20задание.pdf))
 
